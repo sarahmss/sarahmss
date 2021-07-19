@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋🏾
 
-<!--
-**sarahmss/sarahmss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 👩🏾‍💻
+- 👩🏽‍🎓 Eletrical Engineer in trainig
+- 👩🏾‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
+- 👩🏾‍🏫  Passionate about education
+- 👩🏾‍🔧 Really into science, in how all this works, and how things are inside
+- 🔭 I’m currently working on  42's Born2beroot Project
+- 💬 Ask me about anything, if i (probably) don't know the answer, we can learn together
+- 📫 How to reach me:   smodesto@student.42sp.org.br---
 
-Here are some ideas to get you started:
+[![Sarahmss's 42 stats](https://badge42.herokuapp.com/api/stats/smodesto?privacyEmail=true&cursus=42cursus&privacyName=true)](https://github.com/JaeSeoKim/badge42)
+| [![sarahmss's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahmss&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/sarahmss?tab=repositories) | [![sarahmss's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmss&layout=compact&hide_border=true&theme=jolly)](https://github.com/sarahmss?tab=repositories) |
+|:-:|:-:|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
