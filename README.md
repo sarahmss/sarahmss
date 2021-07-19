@@ -4,7 +4,7 @@
 - 👩🏽‍🎓 Eletrical Engineer in trainig
 - 👩🏾‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
 - 👩🏾‍🏫  Passionate about education
-- 👩🏾‍🔧 Really into science, in how all this works, and how things are inside
+- 👩🏾‍🔧 Really into science, into how all this works, and how things are inside
 - 🔭 I’m currently working on  42's Born2beroot Project
 - 💬 Ask me about anything, if i (probably) don't know the answer, we can learn together
 - 📫 How to reach me:   smodesto@student.42sp.org.br
