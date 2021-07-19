@@ -1,7 +1,7 @@
 ### Hi there 👋🏾
 
 ## About me 👩🏾‍💻
-- 👩🏽‍🎓 Eletrical Engineer in trainig
+- 👩🏽‍🎓 Eletrical Engineer in training
 - 👩🏾‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
 - 👩🏾‍🏫  Passionate about education
 - 👩🏾‍🔧 Really into science, into how all this works, and how things are inside
