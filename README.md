@@ -20,6 +20,8 @@
 ![image](https://user-images.githubusercontent.com/62228465/171064756-3e1b1aef-8e58-421b-8296-c17ab773d5db.png)
 ![image](https://user-images.githubusercontent.com/62228465/171064776-5838b282-5409-4758-93d0-643550971b13.png)
 ![image](https://user-images.githubusercontent.com/62228465/171064782-ad20a2d8-c9a5-4bb1-aba8-5517a3d14c9c.png)
+![image](https://user-images.githubusercontent.com/62228465/172032609-a490d287-7ad8-47fa-a32f-5fe6155443ec.png)
+
 
 ---
 [![smodesto's 42 stats](https://badge42.vercel.app/api/v2/cl2w40gcl001109mx37lm6el8/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
