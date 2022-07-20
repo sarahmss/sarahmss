@@ -5,7 +5,7 @@
 - 👩🏾‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
 - 👩🏾‍🏫  Passionate about education
 - 👩🏾‍🔧 Really into science, into how all this works, and how things are inside
-- 🔭 I’m currently working on  42's netpractice Project
+- 🔭 I’m currently working on  42's cub3d Project
 - 💬 Ask me about anything, if i (probably) don't know the answer, we can learn together
 - 📫 How to reach me:   smodesto@student.42sp.org.br
 
