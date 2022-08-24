@@ -5,7 +5,7 @@
 - 👩🏾‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
 - 👩🏾‍🏫  Passionate about education
 - 👩🏾‍🔧 Really into science, into how all this works, and how things are inside
-- 🔭 I’m currently working on  42's cub3d Project
+- 🔭 I’m currently working on  42's CPP Project
 - 💬 Ask me about anything, if i (probably) don't know the answer, we can learn together
 - 📫 How to reach me:   smodesto@student.42sp.org.br
 
@@ -21,6 +21,7 @@
 <a href="https://github.com/sarahmss/Minishell">![image](https://user-images.githubusercontent.com/62228465/171064776-5838b282-5409-4758-93d0-643550971b13.png)</a>
 <a href="https://github.com/sarahmss/Philosophers">![image](https://user-images.githubusercontent.com/62228465/171064782-ad20a2d8-c9a5-4bb1-aba8-5517a3d14c9c.png)</a>
 <a href="https://github.com/sarahmss/Net_practice">![image](https://user-images.githubusercontent.com/62228465/172032609-a490d287-7ad8-47fa-a32f-5fe6155443ec.png)</a>
+<a href="https://github.com/sarahmss/Cub3D">![image](https://user-images.githubusercontent.com/62228465/172032609-a490d287-7ad8-47fa-a32f-5fe6155443ec.png)</a>
 
 
 ---
